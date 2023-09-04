@@ -1,0 +1,53 @@
+/* Write your CSS code here */
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.home-bg-container {
+  background-color: #ffffff;
+}
+
+.home-content-image-container {
+  height: 90vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.home-content-container {
+  background-color: #ffffff;
+  width: 40%;
+}
+
+.home-content-heading {
+  font-family: Roboto;
+  color: #1e293b;
+  margin-bottom: 16px;
+  font-size: 52px;
+}
+
+.home-content-description {
+  font-family: Roboto;
+  color: #64748b;
+  width: 95%;
+  font-size: 16px;
+}
+
+.shop-now-btn {
+  background-color: #0967d2;
+  font-family: Roboto;
+  color: #ffffff;
+  margin-top: 16px;
+  border-width: 0px;
+  font-size: 12px;
+  padding: 6px;
+  height: 28px;
+  width: 90px;
+  border-radius: 5px;
+}
+
+.home-clothes-get-you-noticed-image {
+  width: 500px;
+}

@@ -1,0 +1,48 @@
+/* Write your CSS code here */
+
+.header-nav {
+  background-color: #ffffff;
+  padding: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-website-logo {
+  width: 150px;
+  margin-left: 36px;
+}
+
+.nav-menu-button-container {
+  display: flex;
+  align-items: center;
+}
+
+.nav-menu {
+  list-style-type: none;
+  display: flex;
+}
+
+.link-item-style {
+  text-decoration: none;
+}
+
+.header-list-items {
+  color: #475569;
+  font-family: Roboto;
+  margin-right: 14px;
+}
+
+.logout-button {
+  background-color: #0b69ff;
+  font-family: Roboto;
+  color: #ffffff;
+  border-width: 0px;
+  padding: 0px;
+  font-family: 10px;
+  margin-right: 36px;
+  height: 25px;
+  width: 70px;
+  border-radius: 4px;
+  margin-left: 4px;
+}
